@@ -1,7 +1,3 @@
-Certainly! Here's a description that you can add to your GitHub repository for this project:
-
----
-
 # Cafe Menu Webpage
 
 This project is a simple webpage presenting a cafe menu, designed using HTML and styled with CSS. The menu includes sections for coffee and desserts, each displaying various items along with their corresponding prices. The webpage also features an attractive design with coffee and pie icons, as well as a footer with a link to the cafe's website and address.
